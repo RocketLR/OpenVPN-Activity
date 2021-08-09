@@ -10,9 +10,6 @@ List active users:
 ./ovpn-activity.sh 
 ```
 
-List active users:
-$ ovpn-activity 
-
 monitor active users with a intervall of 30 seconds (default intervall is 2 seconds):
 ```
 ./ovpn-activity.sh view 30
